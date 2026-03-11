@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # NYC Taxi Data Engineering Project (Databricks)
+=======
+# 🚕  Taxi Insights Data Engineering Project (Databricks)
+>>>>>>> 6350c5a9ba56fd8837c882a2dd9b35fddd3fd917
 
 # Project Overview
 
@@ -40,7 +44,7 @@ Gold Layer (Business Insights & Aggregations)
 
 # Project Structure
 
-nyc-taxi-data-engineering/
+taxi-insights-data-engineering/
 
 notebooks/\
 - wirte_data_to_bronze.ipynb\
