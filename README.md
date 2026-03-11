@@ -1,6 +1,6 @@
-# 🚕 NYC Taxi Data Engineering Project (Databricks)
+# NYC Taxi Data Engineering Project (Databricks)
 
-## 📌 Project Overview
+# Project Overview
 
 This project demonstrates an end-to-end **Data Engineering pipeline**
 built using Databricks and PySpark.
@@ -15,7 +15,7 @@ data, clean it, and generate business insights.
 
 ------------------------------------------------------------------------
 
-# 🏗️ Architecture
+# Architecture
 
 Raw Taxi Data\
 ⬇\
@@ -27,7 +27,7 @@ Gold Layer (Business Insights & Aggregations)
 
 ------------------------------------------------------------------------
 
-# ⚙️ Technologies Used
+# Technologies Used
 
 -   Databricks
 -   PySpark
@@ -38,7 +38,7 @@ Gold Layer (Business Insights & Aggregations)
 
 ------------------------------------------------------------------------
 
-# 📂 Project Structure
+# Project Structure
 
 nyc-taxi-data-engineering/
 
@@ -51,7 +51,7 @@ README.md
 
 ------------------------------------------------------------------------
 
-# 🥉 Bronze Layer -- Raw Data Ingestion
+# Bronze Layer -- Raw Data Ingestion
 
 Notebook: `wirte_data_to_bronze.ipynb`
 
@@ -66,7 +66,7 @@ This layer contains **raw and unmodified data**.
 
 ------------------------------------------------------------------------
 
-# 🥈 Silver Layer -- Data Cleaning & Processing
+# Silver Layer -- Data Cleaning & Processing
 
 Notebook: `bronze_to_silver_processing.ipynb`
 
@@ -81,7 +81,7 @@ This layer contains **clean and structured data**.
 
 ------------------------------------------------------------------------
 
-# 🥇 Gold Layer -- Business Insights
+# Gold Layer -- Business Insights
 
 Notebook: `business_agg_gold.ipynb`
 
@@ -97,7 +97,7 @@ analysis**.
 
 ------------------------------------------------------------------------
 
-# 📊 Example Insights Generated
+# Example Insights Generated
 
 -   Number of trips per vendor
 -   Vendor performance comparison
@@ -106,7 +106,7 @@ analysis**.
 
 ------------------------------------------------------------------------
 
-# 📈 Learning Outcomes
+# Learning Outcomes
 
 Through this project I learned:
 
@@ -118,7 +118,7 @@ Through this project I learned:
 
 ------------------------------------------------------------------------
 
-# 👨‍💻 Author
+# Author
 
 **Ankit Kolte**\
 Aspiring Data Engineer passionate about building scalable data pipelines
