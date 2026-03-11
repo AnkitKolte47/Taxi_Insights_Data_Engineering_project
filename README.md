@@ -1,8 +1,6 @@
-<<<<<<< HEAD
 # NYC Taxi Data Engineering Project (Databricks)
-=======
-# 🚕  Taxi Insights Data Engineering Project (Databricks)
->>>>>>> 6350c5a9ba56fd8837c882a2dd9b35fddd3fd917
+----
+# Taxi Insights Data Engineering Project (Databricks)
 
 # Project Overview
 
@@ -17,7 +15,7 @@ Bronze → Silver → Gold
 The goal of this project is to simulate how real companies process raw
 data, clean it, and generate business insights.
 
-------------------------------------------------------------------------
+----
 
 # Architecture
 
@@ -29,7 +27,7 @@ Silver Layer (Data Cleaning & Transformation)\
 ⬇\
 Gold Layer (Business Insights & Aggregations)
 
-------------------------------------------------------------------------
+----
 
 # Technologies Used
 
@@ -40,7 +38,7 @@ Gold Layer (Business Insights & Aggregations)
 -   SQL
 -   GitHub
 
-------------------------------------------------------------------------
+----
 
 # Project Structure
 
@@ -53,7 +51,7 @@ notebooks/\
 
 README.md
 
-------------------------------------------------------------------------
+----
 
 # Bronze Layer -- Raw Data Ingestion
 
@@ -68,7 +66,7 @@ Notebook: `wirte_data_to_bronze.ipynb`
 
 This layer contains **raw and unmodified data**.
 
-------------------------------------------------------------------------
+----
 
 # Silver Layer -- Data Cleaning & Processing
 
@@ -83,7 +81,7 @@ Notebook: `bronze_to_silver_processing.ipynb`
 
 This layer contains **clean and structured data**.
 
-------------------------------------------------------------------------
+----
 
 # Gold Layer -- Business Insights
 
@@ -99,7 +97,7 @@ Notebook: `business_agg_gold.ipynb`
 This layer contains **aggregated data used for reporting and business
 analysis**.
 
-------------------------------------------------------------------------
+----
 
 # Example Insights Generated
 
@@ -108,7 +106,7 @@ analysis**.
 -   Aggregated trip statistics
 -   Business-level metrics from taxi trips
 
-------------------------------------------------------------------------
+----
 
 # Learning Outcomes
 
@@ -120,14 +118,13 @@ Through this project I learned:
 -   Working with Databricks notebooks
 -   Data cleaning and transformations using Spark
 
-------------------------------------------------------------------------
-
+----
 # Author
 
 **Ankit Kolte**\
 Aspiring Data Engineer passionate about building scalable data pipelines
 using modern data engineering tools.
 
-------------------------------------------------------------------------
+----
 
 ⭐ If you like this project, feel free to explore the notebooks.
